@@ -32,8 +32,8 @@ void setup()
   
   // Création de la carte
   // Nantes est située à 47.2172 de latitude et -1.591 de longitude
-  carte = new de.fhpotsdam.unfolding.Map(this, new Microsoft.AerialProvider());
-  //carte = new de.fhpotsdam.unfolding.Map(this, new OpenStreetMap.OpenStreetMapProvider());
+  //carte = new de.fhpotsdam.unfolding.Map(this, new Microsoft.AerialProvider());
+  carte = new de.fhpotsdam.unfolding.Map(this, new OpenStreetMap.OpenStreetMapProvider());
   //carte = new de.fhpotsdam.unfolding.Map(this, new Microsoft.RoadProvider());
   //carte = new de.fhpotsdam.unfolding.Map(this, new Yahoo.RoadProvider());
   //carte = new de.fhpotsdam.unfolding.Map(this, new Yahoo.HybridProvider());
