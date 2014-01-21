@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<liste>
+	<eleve>
+		<NOM>Lepetit</NOM>
+		<PRENOM>Alexandre</PRENOM>
+		<CLASSE>TS1</CLASSE>
+		<SEXE>G</SEXE>
+	</eleve>
+	<eleve>
+		<NOM>Gaumont</NOM>
+		<PRENOM>Clemence</PRENOM>
+		<CLASSE>TS1</CLASSE>
+		<SEXE>F</SEXE>
+	</eleve>
+	<eleve>
+		<NOM>Guerin</NOM>
+		<PRENOM>Sophie</PRENOM>
+		<CLASSE>TS2</CLASSE>
+		<SEXE>F</SEXE>
+	</eleve>
+	<eleve>
+		<NOM>Kerhuel</NOM>
+		<PRENOM>Alan</PRENOM>
+		<CLASSE>TS2</CLASSE>
+		<SEXE>G</SEXE>
+	</eleve>
+</liste>
